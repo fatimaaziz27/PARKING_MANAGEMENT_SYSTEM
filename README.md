@@ -1,5 +1,3 @@
-
-
 # PARKING MANAGEMENT SYSTEM
 
 A simple, menu-driven Parking Management System built using Python to manage parking spaces, vehicle entry and exit, and parking fee calculations.
