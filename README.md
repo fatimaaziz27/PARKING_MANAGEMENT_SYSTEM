@@ -22,6 +22,22 @@ The system calculates parking fees at a rate of **Rs. 50 per hour**.
 - Handle invalid menu choices
 - Exit the application
 
+## Python Concepts Practiced
+
+- Variables and data types
+- Lists
+- Dictionaries
+- Functions
+- `while` loops
+- `for` loops
+- Conditional statements
+- User input with `input()`
+- Type conversion using `int()`
+- List operations
+- String methods such as `lower()`
+- F-strings
+- Arithmetic operations
+
 ## Purpose
 
 This project was created to practice Python programming fundamentals by building a practical parking management application.
